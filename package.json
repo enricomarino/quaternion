@@ -4,7 +4,7 @@
     "email": "enrico.marino@email.com",
     "site": "http://onirame.no.de"
   },
-  "name": "matrix2",
+  "name": "quaternion",
   "description": "JavaScript math library for quaternion",
   "version": "0.0.0",
   "homepage": "https://github.com/onirame/quaternion",
